@@ -55,6 +55,11 @@ header, footer {
  aside {
     padding: 10px;
   }
+.logo {
+    font-size: 2rem;
+    color: #ff6600;
+    margin-right: 10px;
+ }
 }
 
 
