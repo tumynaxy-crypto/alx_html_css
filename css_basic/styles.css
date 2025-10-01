@@ -36,5 +36,13 @@ header, footer {
   background-color: #add8e6;
   text-align: center;
 }
+@media (max-width: 480px) {
+  header,
+ footer,
+ article,
+ aside {
+    padding: 10px;
+  }
+}
 
 
